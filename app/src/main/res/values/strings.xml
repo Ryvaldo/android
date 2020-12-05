@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BelajarAlarmManager</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="set_alarm_berulang">Set Alarm Berulang</string>
+    <string name="judul">Aplikasi Alarm</string>
+</resources>
